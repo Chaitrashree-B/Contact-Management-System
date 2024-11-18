@@ -1,0 +1,17 @@
+
+Here's the requirements.txt for the backend (Node.js) and frontend (ReactJS with MUI) based on the previous instructions. This file contains the essential dependencies for both parts of the project.
+
+Backend (package.json dependencies)
+express@4.18.2
+cors@2.8.5
+mongoose@7.0.3
+body-parser@1.20.1
+dotenv@16.1.4
+
+Frontend (package.json dependencies)
+react@18.2.0
+react-dom@18.2.0
+@mui/material@5.16.7
+@mui/icons-material@5.16.7
+axios@1.3.4
+react-router-dom@6.10.0
