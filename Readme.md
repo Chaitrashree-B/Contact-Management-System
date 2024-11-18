@@ -1,4 +1,4 @@
-VContact Management System
+Contact Management System
 Project Description:
 This project is a Contact Management System developed using ReactJS for the frontend, NodeJS with Express for the backend, and MongoDB as the database. The application allows users to manage their contact information (e.g., first name, last name, email, phone number, company, and job title). Users can perform CRUD (Create, Read, Update, Delete) operations on the contacts.
 
